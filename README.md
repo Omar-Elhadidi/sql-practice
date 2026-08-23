@@ -1,50 +1,46 @@
 # SQL Practice
 
-Daily SQL problem-solving to build interview-ready fluency and earn the HackerRank SQL Intermediate badge.
+A centralized repository tracking my daily SQL problem-solving progress across various competitive programming and interview preparation platforms. The goal is to build deep fluency in SQL for Data Engineering and Analytics.
 
-## 📊 Progress
+## 📊 Platforms
 
-| Platform | Problems Solved | Status |
-|---|---|---|
-| HackerRank | 3 | 🟡 In Progress |
-| DataLemur | 0 | ⬜ Not Started |
-| StrataScratch | 0 | ⬜ Not Started |
+- **[HackerRank](https://www.hackerrank.com/profile/omar_t_elhadidi)** - Foundational to intermediate concepts.
+- **[DataLemur](https://datalemur.com/)** - FAANG-level data science and engineering interview questions.
+- **[StrataScratch](https://www.stratascratch.com/)** - Real-world company interview questions.
 
-**Total: 3 problems solved**
+## 📁 Repository Structure
 
-## 🎯 Targets
-
-- [ ] HackerRank SQL Basic Badge
-- [ ] HackerRank SQL Intermediate Badge
-- [ ] 50+ problems by end of August
-- [ ] 100+ problems by end of September
-
-## 📁 Structure
-
-```
-hackerrank/
-├── basic-select/
-├── aggregation/
-├── basic-join/
-├── advanced-select/
-├── advanced-join/
-└── alternative-queries/
-datalemur/
-├── easy/
-├── medium/
-└── hard/
-stratascratch/
-├── easy/
-├── medium/
-└── hard/
+```text
+sql-practice/
+├── hackerrank/
+│   ├── basic-select/
+│   ├── aggregation/
+│   ├── basic-join/
+│   ├── advanced-select/
+│   └── advanced-join/
+├── datalemur/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── stratascratch/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+└── leetcode/
 ```
 
-Each `.sql` file is named after the problem and contains:
-1. The SQL solution
-2. A comment with the problem name, difficulty, and approach
+## 📝 Format
 
-## 🔗 Profiles
+Each `.sql` file is named after the problem and structured as follows:
 
-- [HackerRank](https://www.hackerrank.com/profile/omar_t_elhadidi)
-- [DataLemur](https://datalemur.com)
-- [StrataScratch](https://stratascratch.com)
+```sql
+-- Problem: [Problem Name]
+-- Difficulty: [Easy/Medium/Hard]
+-- Link: [URL to the problem]
+--
+-- Brief explanation of the logic, especially for CTEs or Window Functions.
+
+SELECT ...
+FROM ...
+WHERE ...;
+```
