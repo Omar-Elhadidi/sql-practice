@@ -1,17 +1,14 @@
 # SQL Practice
 
-Daily SQL problem-solving to build fluency and earn the HackerRank SQL Intermediate badge.
+Daily SQL problem-solving to build interview-ready fluency and earn the HackerRank SQL Intermediate badge.
 
 ## 📊 Progress
 
-| Section | Problems Solved | Status |
+| Platform | Problems Solved | Status |
 |---|---|---|
-| Basic Select | 3 | 🟡 In Progress |
-| Aggregation | 0 | ⬜ Not Started |
-| Basic Join | 0 | ⬜ Not Started |
-| Advanced Select | 0 | ⬜ Not Started |
-| Advanced Join | 0 | ⬜ Not Started |
-| Alternative Queries | 0 | ⬜ Not Started |
+| HackerRank | 3 | 🟡 In Progress |
+| DataLemur | 0 | ⬜ Not Started |
+| StrataScratch | 0 | ⬜ Not Started |
 
 **Total: 3 problems solved**
 
@@ -26,18 +23,28 @@ Daily SQL problem-solving to build fluency and earn the HackerRank SQL Intermedi
 
 ```
 hackerrank/
-├── basic-select/        # SELECT, WHERE, ORDER BY
-├── aggregation/         # COUNT, SUM, AVG, GROUP BY, HAVING
-├── basic-join/          # INNER JOIN, LEFT JOIN
-├── advanced-select/     # CASE, IF, subqueries
-├── advanced-join/       # Self joins, complex joins
-└── alternative-queries/ # UNION, string functions
+├── basic-select/
+├── aggregation/
+├── basic-join/
+├── advanced-select/
+├── advanced-join/
+└── alternative-queries/
+datalemur/
+├── easy/
+├── medium/
+└── hard/
+stratascratch/
+├── easy/
+├── medium/
+└── hard/
 ```
 
 Each `.sql` file is named after the problem and contains:
 1. The SQL solution
-2. A comment explaining the approach
+2. A comment with the problem name, difficulty, and approach
 
-## 🔗 Profile
+## 🔗 Profiles
 
-[HackerRank Profile](https://www.hackerrank.com/profile/omar_t_elhadidi)
+- [HackerRank](https://www.hackerrank.com/profile/omar_t_elhadidi)
+- [DataLemur](https://datalemur.com)
+- [StrataScratch](https://stratascratch.com)
