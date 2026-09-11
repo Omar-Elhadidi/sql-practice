@@ -1,16 +1,16 @@
 # SQL Practice
 
-Daily SQL problem-solving across HackerRank, DataLemur, StrataScratch & more — targeting fluency in joins, CTEs, window functions, and query optimization.
+Daily SQL problem-solving to build interview-ready fluency and earn the HackerRank SQL Intermediate badge.
 
 ## 📊 Progress
 
 | Platform | Problems Solved | Status |
 |---|---|---|
 | HackerRank | 3 | 🟡 In Progress |
-| DataLemur | 0 | ⬜ Not Started |
+| DataLemur | 1 | 🟡 In Progress |
 | StrataScratch | 0 | ⬜ Not Started |
 
-**Total: 3 problems solved**
+**Total: 4 problems solved**
 
 ## 🎯 Targets
 
