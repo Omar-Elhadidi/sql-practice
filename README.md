@@ -6,8 +6,8 @@ Daily SQL problem-solving to build interview-ready fluency and earn the HackerRa
 
 | Platform | Problems Solved | Status |
 |---|---|---|
-| HackerRank | 3 | 🟡 In Progress |
 | DataLemur | 3 | 🟡 In Progress |
+| HackerRank | 3 | 🟡 In Progress |
 | StrataScratch | 0 | ⬜ Not Started |
 
 **Total: 6 problems solved**
@@ -45,6 +45,6 @@ Each `.sql` file is named after the problem and contains:
 
 ## 🔗 Profiles
 
+- [DataLemur]([https://datalemur.com](https://datalemur.com/profile))
 - [HackerRank](https://www.hackerrank.com/profile/omar_t_elhadidi)
-- [DataLemur](https://datalemur.com)
 - [StrataScratch](https://stratascratch.com)
