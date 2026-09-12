@@ -45,6 +45,6 @@ Each `.sql` file is named after the problem and contains:
 
 ## 🔗 Profiles
 
-- [DataLemur]([https://datalemur.com](https://datalemur.com/profile))
+- [DataLemur](https://datalemur.com/profile)
 - [HackerRank](https://www.hackerrank.com/profile/omar_t_elhadidi)
 - [StrataScratch](https://stratascratch.com)
