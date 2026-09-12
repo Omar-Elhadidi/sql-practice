@@ -9,8 +9,14 @@ SELECT
 FROM viewership 
 WHERE device_type IN ('tablet', 'phone');
 
--- Approach 2 (Optimal / Single-Pass Scan in Interviews):
+-- Approach 2 (Single-Pass Scan with SUM):
 -- SELECT 
 --   SUM(CASE WHEN device_type = 'laptop' THEN 1 ELSE 0 END) AS laptop_views,
 --   SUM(CASE WHEN device_type IN ('tablet', 'phone') THEN 1 ELSE 0 END) AS mobile_views
+-- FROM viewership;
+
+-- Approach 3 (Single-Pass Scan with COUNT - ignores NULLs):
+-- SELECT
+--   COUNT(CASE WHEN device_type = 'laptop' THEN 1 END) AS laptop_views,
+--   COUNT(CASE WHEN device_type IN ('tablet', 'phone') THEN 1 END) AS mobile_views
 -- FROM viewership;
