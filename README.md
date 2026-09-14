@@ -7,10 +7,10 @@ Daily SQL problem-solving to build interview-ready fluency and earn the HackerRa
 | Platform | Problems Solved | Status |
 |---|---|---|
 | HackerRank | 3 | 🟡 In Progress |
-| DataLemur | 9 | 🟡 In Progress |
+| DataLemur | 10 | 🟡 In Progress |
 | StrataScratch | 0 | ⬜ Not Started |
 
-**Total: 12 problems solved**
+**Total: 13 problems solved**
 
 ## 🎯 Targets
 
