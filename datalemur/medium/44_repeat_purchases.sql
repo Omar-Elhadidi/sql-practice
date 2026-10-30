@@ -1,5 +1,5 @@
 -- Problem: Repeat Purchases on Multiple Days (DataLemur - Medium)
--- URL: https://datalemur.com/questions/repeat-purchases
+-- URL: https://datalemur.com/questions/sql-repeat-purchases
 -- Pattern: Multi-attribute grouping (user + product) with distinct date truncation.
 
 WITH cte AS (  
